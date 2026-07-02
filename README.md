@@ -4,7 +4,7 @@ This repository contains my statistical and machine learning models for predicti
 
 ## Project Overview
 
-The goal of this project is to build regression models (including Univariate and Multiple Linear Regression) to accurately forecast water levels using historical training data. 
+The goal of this project is to build regression models  to accurately forecast water levels using historical training data. 
 
 ## Repository Contents
 
